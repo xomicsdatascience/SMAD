@@ -11,3 +11,6 @@ Yuming Jiang1,2,3*, Ivan Salladay-Perez4, Amanda Momenzadeh1,2,3, Anthony J. Cov
 3 Smidt Heart Institute, Cedars Sinai Medical Center, Los Angeles, CA 90048, USA. 
 
 4 Department of Molecular Biology, Immunology, and Molecular Genetics, University of California, Los Angeles, 90095, USA.  
+
+
+This repository contains python jupyter notebooks related to multi-omics analysis of two applications, quantification analysis and figure plotting.
